@@ -1,5 +1,4 @@
 rem-test
 ========
 
-Test repo for changes.
-
+Demo for the rem and Mobile Safari content flashing bug.
